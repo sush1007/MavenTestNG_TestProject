@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2018-12-06T09:17:08Z" name="Suite" finished-at="2018-12-06T09:17:25Z" duration-ms="16318">
+    <groups>
+    </groups>
+    <test started-at="2018-12-06T09:17:08Z" name="Test" finished-at="2018-12-06T09:17:25Z" duration-ms="16318">
+      <class name="Test_Project.Test_Project.Test_File">
+        <test-method is-config="true" signature="launch_browser()[pri:0, instance:Test_Project.Test_Project.Test_File@5c671d7f]" started-at="2018-12-06T09:17:08Z" name="launch_browser" finished-at="2018-12-06T09:17:13Z" duration-ms="4404" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch_browser -->
+        <test-method signature="get_url()[pri:0, instance:Test_Project.Test_Project.Test_File@5c671d7f]" started-at="2018-12-06T09:17:13Z" name="get_url" finished-at="2018-12-06T09:17:13Z" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- get_url -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Test_Project.Test_Project.Test_File@5c671d7f]" started-at="2018-12-06T09:17:13Z" name="tearDown" finished-at="2018-12-06T09:17:13Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="launch_browser()[pri:0, instance:Test_Project.Test_Project.Test_File@5c671d7f]" started-at="2018-12-06T09:17:13Z" name="launch_browser" finished-at="2018-12-06T09:17:16Z" duration-ms="3591" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch_browser -->
+        <test-method signature="print_url()[pri:0, instance:Test_Project.Test_Project.Test_File@5c671d7f]" started-at="2018-12-06T09:17:16Z" name="print_url" finished-at="2018-12-06T09:17:25Z" duration-ms="8258" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- print_url -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Test_Project.Test_Project.Test_File@5c671d7f]" started-at="2018-12-06T09:17:25Z" name="tearDown" finished-at="2018-12-06T09:17:25Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Test_Project.Test_Project.Test_File -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
